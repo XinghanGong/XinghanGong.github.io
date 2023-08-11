@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-- China University of Mining and Technology (Beijing), Sep. 2016 - Jul. 2020
-  - B.S. in Mathematics and Applied Mathematics
+- Auburn University, Aug. 2023 - Present
+  - Ph.D. student
 
 - Columbia University in the City of New York, Sep. 2021 - Feb. 2023
   - M.A. in Statistics
 
-- Auburn University, Aug. 2023 - Present
-  - Ph.D. student
+- China University of Mining and Technology (Beijing), Sep. 2016 - Jul. 2020
+  - B.S. in Mathematics and Applied Mathematics
 
 Contact
 ======
@@ -26,10 +26,6 @@ Research Interest
 1. Federated Learning
 1. Distributed Optimization
 
-Site-wide configuration
-------
 
 
-Create content & metadata
-------
 
