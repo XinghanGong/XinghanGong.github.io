@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 - Auburn University, Aug. 2023 - Present
-  - Ph.D. student
+  - Ph.D. student in Electrical and Computer Engineering
 
 - Columbia University in the City of New York, Sep. 2021 - Feb. 2023
   - M.A. in Statistics
