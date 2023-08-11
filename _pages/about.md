@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-- China University of Mining and Technology, Beijing (CUMTB) Sep. 2016-Jul. 2020
+- China University of Mining and Technology (Beijing), Sep. 2016-Jul. 2020
   - B.S. in Mathematics and Applied Mathematics
 
-- Columbia University in the City of New York Sep. 2021-Feb. 2023
+- Columbia University in the City of New York, Sep. 2021-Feb. 2023
   - M.A. in Statistics
 
 A data-driven personal website
